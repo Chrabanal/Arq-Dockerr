@@ -1,0 +1,10 @@
+PassWallet:R0dC0n1507$!
+User: Admin
+Password : F4Li=nd?.oRh
+
+
+USER BD : JAVA_MS 
+PASS: "C1MSJavaArquitectura-"
+
+roroBD
+roroC0nBD3241.-
